@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MyPortfolio/static/css/main.0ab7431f.css",
+    "main.js": "/MyPortfolio/static/js/main.60ee0323.js",
+    "static/media/projectthree.png": "/MyPortfolio/static/media/projectthree.2cd96eebe86a4b3091d3.png",
+    "static/media/projectone.png": "/MyPortfolio/static/media/projectone.d132de37d864a33cb856.png",
+    "static/media/projectsix.png": "/MyPortfolio/static/media/projectsix.849cd075edd7a1a61189.png",
+    "static/media/projecttwo.png": "/MyPortfolio/static/media/projecttwo.ac1f87d2846f28545ef2.png",
+    "static/media/bubble.png": "/MyPortfolio/static/media/bubble.0597a558e7d50afa7987.png",
+    "static/media/banner.jpg": "/MyPortfolio/static/media/banner.6827ea9f83d66073c303.jpg",
+    "static/media/About.jpg": "/MyPortfolio/static/media/About.ed49f5e6b073512c75fa.jpg",
+    "static/media/Yash_Singh_Resume.pdf": "/MyPortfolio/static/media/Yash_Singh_Resume.c28712092e066d9370ee.pdf",
+    "static/media/projectfive.png": "/MyPortfolio/static/media/projectfive.b382c28f05bbebb771f5.png",
+    "static/media/projectfour.png": "/MyPortfolio/static/media/projectfour.730f2f065a9d804ba49a.png",
+    "index.html": "/MyPortfolio/index.html",
+    "main.0ab7431f.css.map": "/MyPortfolio/static/css/main.0ab7431f.css.map",
+    "main.60ee0323.js.map": "/MyPortfolio/static/js/main.60ee0323.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ab7431f.css",
+    "static/js/main.60ee0323.js"
+  ]
+}
