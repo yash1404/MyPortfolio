@@ -1,0 +1,15 @@
+.footer{
+    width:100%;
+ background-color:rgb(208,208,238);
+ padding:10px 0;
+
+}
+.bottom{
+    text-align: center;
+
+}
+.bottom p{
+    color:#363636;
+    font-size:1.5rem;
+    font-weight:700;
+}

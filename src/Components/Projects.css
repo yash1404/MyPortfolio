@@ -1,0 +1,86 @@
+.Project{
+    width:100%;
+    padding:50px 0;
+    background-color:rgb(208,208,238);
+    
+}
+.topskill{
+    margin-bottom:30px;
+}
+.works{
+    margin-top:30px;
+    width:100%;
+    position:relative;
+    cursor:pointer;
+}
+.works img{
+height:300px;
+width:100%;
+border-radius:10px;
+}
+/* overlay effect */
+.projectinfo{
+    position: absolute;
+    bottom:0;
+    height:50px;
+    overflow:hidden;
+    background-color:rgba(29, 87, 175,1);
+    width: 100%;
+    transition: .5s ease;
+    text-align:center;
+    padding:20px 0;
+
+    
+
+}
+.works:hover .projectinfo{
+height:220px;
+
+}
+
+/* overlay info code */
+.projectinfo p{
+    color:#e7e2e2;
+    font-size:1.5rem;
+    font-weight:600;
+    font-family:"Poppins";
+    width:90%;
+    text-align:justify;
+    margin:0 auto;
+
+}
+.projectinfo a button{
+    margin-top:30px;
+    background-color:rgb(208,208,238);
+    border:none;
+    border-radius:5px;
+    color:var(--bg-color);
+    font-weight:700;
+    padding:5px;
+    cursor:pointer;
+}
+
+@media only screen and (max-width:576px){
+   
+.works{
+    width:90%;
+    margin:0 auto;
+}
+.works img{
+height:200px;
+width:100%;
+
+} 
+.works:hover .projectinfo{
+    height:160px;
+    }
+
+    .projectinfo p{
+        font-size:1rem;
+        word-spacing:2px;
+    }
+    .projectinfo a button{
+        margin-top:15px;
+      
+    }
+}

@@ -1,0 +1,87 @@
+.About{
+    padding:50px 0;
+    width:100%;
+}
+.myimg{
+    width:100%;
+    margin-top:50px;
+
+}
+.myimg>img{
+    width:100%;
+}
+/* rightside */
+.aboutright{
+    margin-left:20%;
+    width:70%;
+    height:auto;
+    padding:30px 10px;
+    background-color:rgb(208, 208, 238);
+    border-radius:30px;
+}
+.aboutme{
+    color:var(--bg-color);
+    font-size:3rem;
+    font-family:var(--font-family);
+    margin-bottom:20px;
+    text-align:center;
+    
+}
+.intro{
+    font-size:1.3rem;
+    font-family:"Poppins";
+    color:#363636;
+    text-align: justify;
+    width:80%;
+    margin:0 auto;
+
+}
+.hireme{
+    text-align: center;
+}
+.hireme>a>button{
+    background-color:var(--bg-color);
+    padding:10px 10px;
+    border:none;
+    color:#fff;
+    font-size:1.5rem;
+    cursor:pointer;
+    outline:none;
+    margin-top:10px;
+    border-radius:5px;
+}
+
+@media only screen and (max-width:992px){
+    .aboutright{
+      margin:30px auto;
+      
+
+    }
+    
+.myimg{
+    width:90%;
+    margin-top:50px;
+    position:relative;
+    left:5%;
+
+}
+.myimg>img{
+    width:100%;
+}
+    
+ 
+}
+@media only screen and (max-width:600px){
+  
+.aboutme{
+    font-size:2.5rem;
+      
+}
+.intro{
+    font-size:1.1rem;
+   line-height: 15px;
+   width:90%;
+   margin:0 auto;
+
+}
+}
